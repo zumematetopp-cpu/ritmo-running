@@ -1,1 +1,1 @@
-{"name":"Zume Ritmo","short_name":"Zume Ritmo","id":"/","start_url":"/","display":"standalone","background_color":"#f3f4ed","theme_color":"#122b28","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{"name":"Zume Ritmo","short_name":"Zume Ritmo","id":"/","start_url":"/","scope":"/","display":"standalone","theme_color":"#122b28","background_color":"#f3f4ed","icons":[{"src":"/assets/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/assets/icon-512.png","sizes":"512x512","type":"image/png"}]}
